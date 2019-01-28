@@ -6,3 +6,4 @@ red
 orange
 green
 yellow
+Rainbow
